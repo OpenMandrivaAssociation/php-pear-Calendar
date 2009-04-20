@@ -4,11 +4,11 @@
 
 Summary:	%{_pearname} - building calendar data structures (irrespective of output)
 Name:		php-pear-%{_pearname}
-Version:	0.5.3
-Release:	%mkrel 3
+Version:	0.5.4
+Release:	%mkrel 1
 License:	PHP License
 Group:		Development/PHP
-Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
+Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
 URL:		http://pear.php.net/package/Calendar/
 Requires(post): php-pear
 Requires(preun): php-pear
