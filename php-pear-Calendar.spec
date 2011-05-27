@@ -3,7 +3,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.5.4
-Release:	%mkrel 4
+Release:	%mkrel 5
 Summary:	Building calendar data structures (irrespective of output)
 License:	PHP License
 Group:		Development/PHP
