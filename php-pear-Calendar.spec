@@ -7,7 +7,7 @@ Release:	2
 Summary:	Building calendar data structures (irrespective of output)
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Calendar/
+URL:		https://pear.php.net/package/Calendar/
 Source0:	http://download.pear.php.net/package/Calendar-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
